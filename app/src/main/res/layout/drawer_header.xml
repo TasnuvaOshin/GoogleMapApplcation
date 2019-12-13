@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    app:cardElevation="8dp"
+
+    >
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="Near By Market"
+    android:textStyle="bold"
+    android:textColor="@android:color/white"
+    android:textSize="32sp"
+    android:fontFamily="sans-serif-condensed"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:textAlignment="center"
+    android:src="@drawable/mainlogo"
+
+    />
+
+</androidx.cardview.widget.CardView>

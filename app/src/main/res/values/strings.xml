@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Nearby Market</string>
+    <string name="title_activity_maps">Nearby Market</string>
+    <string name="how_to_use">How to Use Nearby Market?</string>
+    <string name="how_to_use_bn">কিভাবে নেয়ারবাই মার্কেট ব্যবহার করবেন ?</string>
+    <string name="how_to_text">
+        <h2><b>Home Page</b></h2>
+You can See your Nearby Market (Marked Purple Color) and Your Location (Green Color) Just User Your finger and touch the marked purple color icon and you can see the market name and location. \n \n \n
+<h2><b>Search Option:</b></h2>\n
+For getting any Specific Product Market /Shop. You have to write the product name
+Example:\n
+User want to search the market where user can buy Shirt. So user will Write Shirt in the Search Box and press enter in my keyboard or click the enter icon. Then User will get the Nearby Market (Marked Purple Color Who Sell Shirt In their Market.)
+Now If User Click On the marked icon user will get Route from User Location and User Can Also Get the Distance from His/her Place.
+\n \n \n
+    </string>
+
+    <string name="how_to_text_bn">
+        <h2><b>হোম পেজ ঃ</b></h2> \n
+অ্যাপ ওপেন করার পর আপনি হোম পেজ পাচ্ছেন এখানে আপনি আপনার লোকেশান এর কাছাকাছি সকল মার্কেট / শপ  দেখতে পাবেন মার্ক করা (বেগুনী কালার করা ) । আপনার ফোন এর স্ক্রীন এ টাচ করে আপনি মার্কেট এর লোকেশান দেখতে পারবেন ।
+   \n   <h2><b>সার্চ অপশন ঃ</b></h2>\n
+আপনি যদি কোন নিদিষ্ট জিনিস ক্রয় করার জন্য কোন মার্কেট / শপ খুজে থাকেন তাহলে আপনি সার্চ এ লিখতে পারেন । \n \n \n যেমন ঃ আপনি যদি জামা কিনতে চান তাহলে সার্চ বার এ লিখবেন ড্রেস অথবা জামা তার পর আপনি এন্টার প্রেস করবেন । এর পর আপনি দেখতে পারেবন আপনার লোকেশান এর আশে পাশের জামার মার্কেট / শপ গুলো  মার্ক করা (বেগুনী কালার করা ) ।
+এখন আপনি যদি ওই মার্ক করা আইকন এ ক্লিক করেন তাহলে আপনি আপনার লোকেশান থেকে অই মার্কেট এর যাওয়ার রাস্তা এবং দূরত্ব দেখতে পারবেন।\n \n \n
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_nbm">What is Nearby Market?</string>
+    <string name="about_nbm_bn">নেয়ারবাই মার্কেট কি??</string>
+    <string name="about_text">
+Nearby Market is an Application that will Help User by : \n
+
+
+•	Showing Nearby Market/Shop from User Location \n
+•	Searching Any Specific Product Shop/Market from User Location \n
+•	Get Market Route from User Location \n
+•	Get Distance from User Location \n
+
+
+</string>
+    <string name="about_text_bn">
+নেয়ারবাই মার্কেট এমন একটি মোবাইল অ্যাপ্লিকেশান যার মাধ্যমে আপনি – \n
+-	আপনার জয়গার আশেপাশের মার্কেট / দোকান গুলোর লোকেশন খুজে পাবেন  \n
+-	যে কোন নিদিষ্ট জিনিস এর দোকান / মার্কেট খুজে পেতে পারবেন \n
+-	মার্কেট / দোকান এ যাওয়ার রাস্তা দেখতে পারবেন \n
+-	কতটুকূ দূরে তাও দেখতে পারবেন \n
+
+
+</string>
+</resources>

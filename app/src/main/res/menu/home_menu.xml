@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group
+    android:id="@+id/groupOne"
+    android:checkableBehavior="single"
+    >
+    <item
+        android:title="Home"
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        />
+    <item
+        android:title="About Nearby Market"
+        android:id="@+id/menu_nearby"
+        android:icon="@drawable/ic_dialpad_black_24dp"
+        />
+    <item
+        android:title="How To Use It"
+        android:id="@+id/menu_use"
+        android:icon="@drawable/ic_library_books_black_24dp"
+
+
+        />
+
+</group>
+</menu>

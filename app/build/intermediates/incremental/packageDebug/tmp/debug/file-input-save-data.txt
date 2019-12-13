@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 13 12:39:28 BDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\HP\\Desktop\\Image\\New folder\\market\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
